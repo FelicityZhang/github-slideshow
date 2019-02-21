@@ -1,6 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+--line 5 new message renewed
 Use the left arrow to go back!
